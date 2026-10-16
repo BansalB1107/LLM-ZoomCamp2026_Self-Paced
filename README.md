@@ -1,2 +1,2 @@
-# LLM-ZoomCamp2026
+# LLM-ZoomCamp2026 Self-Paced
 Learning about LLM.... 

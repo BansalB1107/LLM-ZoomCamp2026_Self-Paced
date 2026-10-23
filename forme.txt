@@ -1,0 +1,8 @@
+la
+python --version
+uv --version
+
+
+pip install uv
+uv init
+uv add requests minsearch jupyter python-dotenv google-genai
